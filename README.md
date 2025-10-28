@@ -1,7 +1,7 @@
 # housing-market-dashboard
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./housing-market%20dashboard)
+![Dashboard Preview](./housing%20market.png)
 
 ---
 
@@ -9,4 +9,4 @@
 
 
 
-👤 Created by [uzmafaiqa654-blip](https://github.com/uzmafaiqa654-blip)
+👤 Created by [uzmafaiqa](https://github.com/uzmafaiqa654-blip)
