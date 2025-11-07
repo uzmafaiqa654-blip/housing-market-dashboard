@@ -1,7 +1,7 @@
 # housing-market-dashboard
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./housing-market.png)
+![Dashboard Preview](./hosing-market.png)
 
 ---
 
